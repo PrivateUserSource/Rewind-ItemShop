@@ -1,0 +1,59 @@
+{
+    "sectionDisplayName": "Rewind Item Shop",
+    "daily1": {
+      "itemGrants": [
+        "AthenaBackpack:BID_706_CasualBomberLight"
+      ],
+      "price": 500,
+      "allowInShop": true
+    },
+    "daily2": {
+      "itemGrants": [
+        "AthenaPickaxe:Pickaxe_ID_542_TyphoonFemale1H_CTEVQ"
+      ],
+      "price": 800,
+      "allowInShop": true
+    },
+    "daily3": {
+      "itemGrants": [
+        "AthenaBackpack:EID_Psychic_7SO2Z"
+      ],
+      "price": 500,
+      "allowInShop": true
+    },
+    "daily4": {
+      "itemGrants": [
+        "AthenaDance:EID_Psychic_7SO2Z"
+      ],
+      "price": 500,
+      "allowInShop": true
+    },
+    "daily5": {
+      "itemGrants": [
+        "AthenaDance:EID_ShallWe"
+      ],
+      "price": 1800,
+      "allowInShop": true
+    },
+    "daily6": {
+      "itemGrants": [
+        "AthenaPickaxe:Pickaxe_ID_527_Stars"
+      ],
+      "price": 800,
+      "allowInShop": true
+    },
+    "featured1": {
+      "itemGrants": [
+        "AthenaCharacter:CID_A_022_Athena_Commando_F_Crush"
+      ],
+      "price": 1200,
+      "allowInShop": true
+    },
+    "featured2": {
+      "itemGrants": [
+        "AthenaCharacter:CID_A_011_Athena_Commando_M_StreetCuddles"
+      ],
+      "price": 1200,
+      "allowInShop": true
+    }
+  }
