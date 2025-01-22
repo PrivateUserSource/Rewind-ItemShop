@@ -25,15 +25,13 @@ AthenaPickaxe:Pickaxe_ID_542_TyphoonFemale1H_CTEVQ -> Pickaxe_ID_542_TyphoonFema
 AthenaBackpack:EID_Psychic_7SO2Z -> EID_Psychic_7SO2Z
 AthenaDance:EID_Psychic_7SO2Z -> EID_Psychic_7SO2Z
 
-Formats:
-Skins: AthenaCharacter:CosmeticID
-Pickaxes: AthenaPickaxe:CosmeticID
-Backpacks: AthenaBackpack:CosmeticID
-Dances: AthenaDance:CosmeticID
-Emotes: AthenaEmote:CosmeticID
-Gliders: AthenaGlider:CosmeticID
-Wraps: AthenaItemWrap:CosmeticID
-LoadingScreens: AthenaLoadingScreen:CosmeticID
-Skydiving Contrail: AthenaSkydivingContrail:CosmeticID
+#### Formats:
+- **Skins:** `AthenaCharacter:CosmeticID`  
+- **Emotes:** `AthenaDance:CosmeticID`  *(Dances, Emoticons, Sprays)*
+- **Pickaxes:** `AthenaPickaxe:CosmeticID`  
+- **Gliders:** `AthenaGlider:CosmeticID`  
+- **Wraps:** `AthenaItemWrap:CosmeticID`  
+- **Loading Screens:** `AthenaLoadingScreen:CosmeticID`  
+- **Skydiving Contrails:** `AthenaSkyDiveContrail:CosmeticID` 
 
 **ItemGrants**: this defines the item(s) that will be display in the itemshop for that slot.
