@@ -20,10 +20,10 @@ if you do not know how to get the cosmetic ID or the V-Bucks price, please do no
 #### Cosmetic ID Fortmat
 The Cosmetic ID is id for the item (skin, emote, etc.). this MUST be the exact format otherwise it will not work in-game.
 E.G:
-AthenaBackpack:BID_706_CasualBomberLight -> BID_706_CasualBomberLight
-AthenaPickaxe:Pickaxe_ID_542_TyphoonFemale1H_CTEVQ -> Pickaxe_ID_542_TyphoonFemale1H_CTEVQ
-AthenaBackpack:EID_Psychic_7SO2Z -> EID_Psychic_7SO2Z
-AthenaDance:EID_Psychic_7SO2Z -> EID_Psychic_7SO2Z
+- `AthenaBackpack:BID_706_CasualBomberLight -> BID_706_CasualBomberLight`
+- `AthenaPickaxe:Pickaxe_ID_542_TyphoonFemale1H_CTEVQ -> Pickaxe_ID_542_TyphoonFemale1H_CTEVQ`
+- `AthenaBackpack:EID_Psychic_7SO2Z -> EID_Psychic_7SO2Z`
+- `AthenaDance:EID_Psychic_7SO2Z -> EID_Psychic_7SO2Z`
 
 #### Formats:
 - **Skins:** `AthenaCharacter:CosmeticID`  
