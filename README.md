@@ -2,7 +2,7 @@
 This form will help you contribute to rewind and help us create daily itemshops
 Here's how to use this form
 
-thank you rio for the idea
+thank you @eonOGFN for the idea
 
 the template folder contains more folders.
 Rename your folder to the date (E.G YEAR-MONTH-DAY 2025-01-22)
